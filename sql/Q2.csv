@@ -1,0 +1,5 @@
+income_segment,borrower_count,defaults,default_rate_pct,avg_income
+"1. Low Income",63698,5225,8.20,78074
+"2. Lower Mid",155898,13326,8.55,142969
+"3. Upper Mid",74050,5466,7.38,244018
+"4. High Income",13865,808,5.83,474288

@@ -1,0 +1,5 @@
+dti_cohort,borrower_count,defaults,default_rate_pct,avg_dti
+"1. Low DTI",14238,933,6.55,0.74
+"2. Moderate DTI",56798,4384,7.72,1.51
+"3. High DTI",66240,5762,8.70,2.46
+"4. Very High DTI",170235,13746,8.07,5.63

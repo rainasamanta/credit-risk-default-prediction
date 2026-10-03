@@ -1,0 +1,9 @@
+employment_type,borrower_count,defaults,default_rate_pct
+"Maternity leave",5,2,40.00
+Unemployed,22,8,36.36
+Working,158774,15224,9.59
+"Commercial associate",71617,5360,7.48
+"State servant",21703,1249,5.75
+Pensioner,55362,2982,5.39
+Businessman,10,0,0.00
+Student,18,0,0.00

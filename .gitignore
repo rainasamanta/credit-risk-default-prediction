@@ -1,0 +1,23 @@
+# Data (not redistributable under the Kaggle competition rules, and too large for GitHub)
+data/
+
+# Old scripts and plots kept locally
+backup/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment and secrets
+.env
+.venv/
+venv/
+
+# OS and Office temporary files
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
